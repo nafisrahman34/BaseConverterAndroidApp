@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Base Converter</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Get my result</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment"> Enter the number you wish to convert </string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="base_converter">Base Converter</string>
+    <string name="textview">What base is this number in?(Enter a value between 2-16)</string>
+    <string name="textview3">What base do you want to convert to?</string>
+    <string name="textview4">(Enter a value between 2-16)</string>
+    <string name="output"> </string>
+    <string name="appname">Base Converter</string>
+    <string name="button1">Go</string>
+    <string name="button2">Clear</string>
+
+</resources>
